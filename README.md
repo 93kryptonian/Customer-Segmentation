@@ -1,2 +1,2 @@
-# Mall-Visitor-Segmentation
+# Customer Segmentation
 Clustering Mall visitor
